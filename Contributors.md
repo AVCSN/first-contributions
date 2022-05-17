@@ -32,6 +32,7 @@
 - [YO-RO](https://github.com/YO-RO)
 - [Saad Amir](https://github.com/saadamirpk)
 - [Kevin Shi](https://github.com/kshi4234)
+- [Avery Nazareno](https://github.com/AVCSN/)
 - [Srehdeep](https://github.com/Srehdeep)
 - [Howard Wang] (https://github.com/Howarang12)
 - [miyashiro1] (https://github.com/miyashiro1)
